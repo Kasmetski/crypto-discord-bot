@@ -11,7 +11,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-var Token = ""
+var Token = "DISCORD-TOKEN" //Write your discord api key here
 
 func main() {
 	fmt.Println(Token)
